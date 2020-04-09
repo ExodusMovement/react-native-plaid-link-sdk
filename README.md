@@ -105,6 +105,9 @@ const MyPlaidComponent = () => {
       userLegalName='<# User Legal Name #>'
       userPhoneNumber='<# User Phone Number #>'
       webhook='<# Webhook URL #>'
+      oauthNonce='<# OAuth Nonce #>'
+      oauthRedirectUri='<# OAuth Redirect URI #>'
+      oauthStateId='<# OAuth State ID #>'
     >
       <Text>Add Account</Text>
     </PlaidLink>
