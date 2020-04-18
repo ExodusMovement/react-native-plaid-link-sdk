@@ -1,5 +1,5 @@
 {
-  "name": "react-native-plaid-link-sdk",
+  "name": "@exodus/react-native-plaid-link-sdk",
   "version": "3.1.2",
   "description": "React Native Plaid Link SDK",
   "main": "index.js",
