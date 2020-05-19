@@ -12,6 +12,11 @@
     "react-native",
     "Plaid"
   ],
+  "files": [
+    "ios/",
+    "*.js",
+    "!.eslintrc.js"
+  ],
   "husky": {
     "hooks": {
       "pre-commit": "lint-staged"
